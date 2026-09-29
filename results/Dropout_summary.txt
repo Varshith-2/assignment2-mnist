@@ -1,0 +1,9 @@
+scenario: Dropout
+epochs_ran: 10
+best_epoch_by_val_loss: 10
+train_loss_last: 0.09907017648220062
+train_accuracy_last: 0.9692833423614502
+val_loss_last: 0.09225483983755112
+val_accuracy_last: 0.9717000126838684
+test_loss: 0.09225485473871231
+test_accuracy: 0.9717000126838684

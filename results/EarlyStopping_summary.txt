@@ -1,0 +1,9 @@
+scenario: EarlyStopping
+epochs_ran: 10
+best_epoch_by_val_loss: 10
+train_loss_last: 0.052055973559617996
+train_accuracy_last: 0.9854333400726318
+val_loss_last: 0.08994298428297043
+val_accuracy_last: 0.9743000268936157
+test_loss: 0.08994301408529282
+test_accuracy: 0.9743000268936157

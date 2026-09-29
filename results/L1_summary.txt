@@ -1,0 +1,9 @@
+scenario: L1
+epochs_ran: 10
+best_epoch_by_val_loss: 10
+train_loss_last: 0.36772510409355164
+train_accuracy_last: 0.9470333456993103
+val_loss_last: 0.35267335176467896
+val_accuracy_last: 0.9496999979019165
+test_loss: 0.3526734411716461
+test_accuracy: 0.9496999979019165

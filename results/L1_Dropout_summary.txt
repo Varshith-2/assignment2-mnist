@@ -1,0 +1,9 @@
+scenario: L1_Dropout
+epochs_ran: 10
+best_epoch_by_val_loss: 10
+train_loss_last: 0.46294450759887695
+train_accuracy_last: 0.9297666549682617
+val_loss_last: 0.3904641270637512
+val_accuracy_last: 0.9492999911308289
+test_loss: 0.390464186668396
+test_accuracy: 0.9492999911308289
